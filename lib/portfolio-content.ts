@@ -11,7 +11,7 @@ export type ProductMark = {
 };
 
 export const linkedInUrl = "https://linkedin.com/in/jessica-draper-249437a7";
-export const resumePath = "/assets/draperResume0226.pdf";
+export const resumePath = "/assets/draperResume1126.pdf";
 
 export const navigationItems: NavigationItem[] = [
   { id: "skills", label: "Skills" },
@@ -83,10 +83,10 @@ export const frameworksAndTools = [
 
 export const experience = [
   {
-    period: "2025 - Present",
+    period: "May 2025 - Oct 2026",
     role: "Senior Full Stack Developer",
     company: "OpenYield",
-    detail: "Own frontend architecture and delivery for production-critical trading workflows, from UX decisions through React, API, and data-layer implementation.",
+    detail: "Owned frontend architecture and delivery for production-critical trading workflows, from UX decisions through React, API, and data-layer implementation.",
   },
   {
     period: "2024 - 2025",
